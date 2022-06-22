@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tim Murkomen.
+- 👀 I’m interested in Software Development && Web Development. 
+- 🌱 I’m currently learning Python for Data Science && AI && ML. 
+- 💞️ I’m looking to collaborate on my areas of interest. 
