@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @Tim Murkomen.
--  I’m interested in Software Development && Web Development. 
--  I’m currently learning Java -Java EE. 
--  I’m looking to collaborate on my areas of interest. 
-Sure! Here's a sample README.md file that you can use for your profile repository on GitHub:
-
+##👋👋👋👋👋👋Hi, Welcome to My Profile Repo!
 ---
-
-#👋 Hi, Welcome to My Profile Repo!
-
 ## 👀 About Me
 
 I'm @Tim Murkomen, a passionate software developer with a strong focus on Java and JavaScript (Dojo Toolkit Library). I also have experience working with PostgreSQL as a database server. I am enthusiastic about software development and web development, always eager to learn and explore new technologies. [LeveragingTech]
