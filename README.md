@@ -37,8 +37,8 @@ I'm actively seeking collaboration opportunities in my areas of interest. If you
 
 - [EMAIL ME: ](mailto:timothymurkomen@outlook.com)
 - [View My Portfolio](https://timmurkomen.com)
-- [View My Profile](https://timmurkomen.com)
-- [LinkedIn: ([www](https://linkedin.com/in/timoo20)
+- [Twitter](https://x.com/Tim_Murkomen))
+- [LinkedIn Link](https://linkedin.com/in/timoo20)
 
 ---
 #LeverageTech - By [Tim Murkomen](https://timmurkomen.com/)
