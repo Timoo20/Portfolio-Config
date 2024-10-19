@@ -38,21 +38,21 @@ Reach out to me! I promise I only bite **when** debugging.
 
 ## 🔄 Fun Facts:
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zte7fYCQW6nA8g0/giphy.gif" alt="Funny Animation" width="400" />
+  <img src="https://media.giphy.com/media/xT0xeuOy9yGsQ0CCfG/giphy.gif" alt="Funny Animation" width="400" />
 </p>
 
 ---
 
 ## 🚀 Let's Stay Connected!
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/right.png" alt="Right Arrow" width="50" />
-  <img src="https://img.icons8.com/color/50/000000/talking.png" alt="Funny Image" width="50" />
-  <img src="https://img.icons8.com/ios/50/000000/right.png" alt="Right Arrow" width="50" />
+  <img src="https://img.icons8.com/ios/50/000000/arrow.png" alt="Right Arrow" width="50" />
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PQ/giphy.gif" alt="Funny Talking Image" width="50" />
+  <img src="https://img.icons8.com/ios/50/000000/arrow.png" alt="Right Arrow" width="50" />
 </p>
 
 ---
 
-![Tech Image](https://images.unsplash.com/photo-1615261259040-99e027a07be1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEwfHx0ZWNobmljYWwlMjBzdGFydHxlbnwwfHx8fDE2ODAzMzcwNDE&ixlib=rb-4.0.3&q=80&w=1080)
+## ![Tech Image](https://images.unsplash.com/photo-1581093588417-65d4a5776884?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDIwfHx0ZWNobmljYWwlMjBzdGFydHxlbnwwfHx8fDE2ODAzNDE5OTM&ixlib=rb-4.0.3&q=80&w=1080)
 
 ---
 
