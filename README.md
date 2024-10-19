@@ -24,7 +24,7 @@ I also moonlight as a **technical writer** on Medium: [Medium](https://medium.co
 Looking to collaborate? Let’s make tech magic together! 🎩✨ Whether you have a project idea, an open-source endeavor, or a freelance opportunity, I'm all ears... and keyboards.
 
 Reach out to me! I promise I only bite **when** debugging.
-- **Email Me**: [Email](mailto:timothymurkomen@outlook.com)
+- **Email Me**: [timothymurkomen@outlook.com](mailto:timothymurkomen@outlook.com)
 - **Portfolio**: [Check it out!](https://timmurkomen.com) (it's as good as it sounds)
 - **Twitter**: [Tweet at me!](https://x.com/Tim_Murkomen) (I’ll tweet back... eventually)
 - **LinkedIn**: [Let's Connect!](https://linkedin.com/in/timoo20) (professional handshake)
