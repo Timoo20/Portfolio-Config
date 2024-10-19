@@ -1,29 +1,47 @@
-##👋👋Hi, Welcome!
+## Hi, Welcome! ![Waving Hand](https://media.giphy.com/media/xThtamkuyrS1TBl7jC/giphy.gif)
+
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="60">
+  <text x="0" y="40" font-size="40" fill="black">
+    Tim Murkomen
+    <animate attributeName="fill" values="red;blue;green;yellow;red" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
+
 ---
 ## 👀 About Me
 
-I'm @Tim Murkomen, a passionate software developer with a strong focus on Java and JavaScript (Dojo Toolkit Library). I also have experience working with PostgreSQL as a database server. I am enthusiastic about software development and web development, always eager to learn and explore new technologies. [LeveragingTech]
+I am a Java software developer with a strong focus on Java-backend and JavaScript. I also have experience working with PostgreSQL as a database server. I am enthusiastic about IT Security - with Blockchain, IT Project Management, software development, always learning and exploring new technologies.
+
+## Technical Writer
+
+I also author technical concepts in [Medium](https://medium.com/@timmurkomen)
 
 ## 💞️Interests
-
+- IT Security - Blockchain
+- Quality Assurance
 - Software Development
-- Web Development
-- Project Management
+- Web App Development
+- IT Project Management
 
 ## 🌱Areas of Expertise
-
+- GRC - Governance Risk and Compliance
+- Quality Assurance
+- Software Testing
 - Java
-- JavaScript (Dojo Toolkit Library)
-- PostgreSQL
+- JavaScript
+- PostgreSQL, MySQL
 
 ## 💞️Collaboration Opportunities
 
-I'm actively seeking collaboration opportunities in my areas of interest. If you have any #projects or ideas related to software development or web development, I would love to hear about them. Whether it's an open-source project, a team effort, or a freelance opportunity, I'm open to exploring collaborations and contributing my skills and expertise.
+I'm actively seeking collaboration opportunities in my areas of interest. If you have any #projects or ideas, I would love to hear about them. Whether it's an open-source project, a team effort, or a freelance opportunity, I'm open to exploring collaborations and contributing my skills and expertise. Feel free to reach out!
 
-Feel free to reach out to me via email at timothymurkomen@gmail.com to discuss potential collaborations, project ideas, or any other opportunities. You can also connect with me on **LinkedIn**: www.linkedin.com/in/timoo20 Or my Website **Portfolio**: https://timmurkomen.com/ to stay updated on my latest projects and professional journey.
-
-Let's collaborate and create something amazing together:) As I always say **#LeverageTech**- with Consistency $$ Passion!
+- [EMAIL ME: ](mailto:timothymurkomen@outlook.com)
+- [View My Portfolio](https://timmurkomen.com)
+- [View My Profile](https://timmurkomen.com)
+- [LinkedIn: ([www](https://linkedin.com/in/timoo20)
 
 ---
-#LeverageTech - By [Tim Murkomen](https://timmurkomen.com/) or By [Tim Murkomen](https://timoo20.github.io/)
+#LeverageTech - By [Tim Murkomen](https://timmurkomen.com/)
+
+@2024
 ---
