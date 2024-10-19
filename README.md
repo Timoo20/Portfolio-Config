@@ -1,18 +1,8 @@
-<!-- Profile Header with Rotating Funny Text -->
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="60">
-    <text x="0" y="40" font-size="40" fill="black">
-      Your Friendly Java Developer
-      <animate attributeName="fill" values="red;blue;green;orange;purple;red" dur="5s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</p>
----
 ## About Me 
 ---
 I'm your friendly neighborhood **Java** developer, and yes, my backend code doesn't crash... (most of the time). When I'm not busy talking to my **PostgreSQL** server (yes, it talks back), you’ll find me on a mission to conquer the world of **Blockchain** and **IT Security**. Armed with **JavaScript**, I fight off bugs while always being one Google search away from greatness. Forever curious, forever learning.
 
-## 🖋️ Technical Writer
+## Technical Writer
 I also moonlight as a **technical writer** on Medium: [Medium](https://medium.com/@timmurkomen). Don’t worry, my articles won’t put you to sleep... unless you read them at 3 a.m. (in which case, you might just learn something through osmosis).
 
 ## My Techy Love Interests
