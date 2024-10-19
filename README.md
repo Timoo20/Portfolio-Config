@@ -27,7 +27,7 @@ I also moonlight as a **technical writer** on [Medium](https://medium.com/@timmu
 - **IT Project Management** (yes, I can herd cats... I mean developers)
 
 <p align="center">
-  <img src="https://image-url-arrow.png" alt="Arrow" width="50" />
+  <img src="https://img.icons8.com/ios/50/000000/right.png" alt="Arrow" width="50" />
 </p>
 
 ---
@@ -75,9 +75,9 @@ Reach out to me! I promise I only bite **when** debugging.
 
 ## 🚀 Let's Stay Connected!
 <p align="center">
-  <img src="https://image-url-arrow.png" alt="Arrow" width="50" />
-  <img src="https://your-image-url-here" alt="Funny Image" width="200" />
-  <img src="https://image-url-arrow.png" alt="Arrow" width="50" />
+  <img src="https://img.icons8.com/ios/50/000000/right.png" alt="Arrow" width="50" />
+  <img src="https://img.icons8.com/ios/500/000000/tech-support.png" alt="Funny Image" width="200" />
+  <img src="https://img.icons8.com/ios/50/000000/right.png" alt="Arrow" width="50" />
 </p>
 
 ---
