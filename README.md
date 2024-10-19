@@ -38,22 +38,21 @@ Reach out to me! I promise I only bite **when** debugging.
 
 ## 🔄 Fun Facts:
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="60">
-    <text x="0" y="40" font-size="40" fill="orange">
-      Code like nobody's watching, debug like it's a high-stakes game! 
-      <animate attributeName="fill" values="red;blue;green;purple;yellow;red" dur="6s" repeatCount="indefinite"/>
-    </text>
-  </svg>
+  <img src="https://media.giphy.com/media/3o6Zte7fYCQW6nA8g0/giphy.gif" alt="Funny Animation" width="400" />
 </p>
 
 ---
 
 ## 🚀 Let's Stay Connected!
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/right.png" alt="Arrow" width="50" />
-  <img src="https://img.icons8.com/ios/50/000000/laptop.png" alt="Funny Image" width="50" />
-  <img src="https://img.icons8.com/ios/50/000000/right.png" alt="Arrow" width="50" />
+  <img src="https://img.icons8.com/ios/50/000000/right.png" alt="Right Arrow" width="50" />
+  <img src="https://img.icons8.com/color/50/000000/talking.png" alt="Funny Image" width="50" />
+  <img src="https://img.icons8.com/ios/50/000000/right.png" alt="Right Arrow" width="50" />
 </p>
+
+---
+
+![Tech Image](https://images.unsplash.com/photo-1615261259040-99e027a07be1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEwfHx0ZWNobmljYWwlMjBzdGFydHxlbnwwfHx8fDE2ODAzMzcwNDE&ixlib=rb-4.0.3&q=80&w=1080)
 
 ---
 
