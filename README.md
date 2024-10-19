@@ -1,4 +1,4 @@
-## Hi there!  👋 👋 *Tim Murkomen* here;
+## About Me 
 ---
 I'm your friendly neighborhood **Java** developer, and yes, my backend code doesn't crash... (most of the time). When I'm not busy talking to my **PostgreSQL** server (yes, it talks back), you’ll find me on a mission to conquer the world of **Blockchain** and **IT Security**. Armed with **JavaScript**, I fight off bugs while always being one Google search away from greatness. Forever curious, forever learning. 🚀
 
@@ -30,6 +30,10 @@ Reach out to me! I promise I only bite **when** debugging.
 - **Portfolio**: [Check it out!](https://timmurkomen.com) (it's as good as it sounds)
 - **Twitter**: [Tweet at me!](https://x.com/Tim_Murkomen) (I’ll tweet back...eventually)
 - **LinkedIn**: [Let's Connect!](https://linkedin.com/in/timoo20) (professional handshake)
+
+- ![Tim Murkomen's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimMurkomen&show_icons=true&theme=dark)
+[![GitHub followers](https://img.shields.io/github/followers/TimMurkomen?style=social)](https://github.com/TimMurkomen)
+
 
 ---
 ## #LeverageTech - By [Tim Murkomen](https://timmurkomen.com/)
