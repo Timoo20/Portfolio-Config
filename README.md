@@ -1,6 +1,12 @@
-<div align="center">
-  **Technology is like magic... except it’s real!**
-</div>
+<!-- Profile Header with Rotating Funny Text -->
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="60">
+    <text x="0" y="40" font-size="40" fill="black">
+      Your Friendly Java Developer
+      <animate attributeName="fill" values="red;blue;green;orange;purple;red" dur="5s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
 ---
 ## About Me 
 ---
