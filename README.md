@@ -35,10 +35,10 @@ I also author technical concepts in [Medium](https://medium.com/@timmurkomen)
 
 I'm actively seeking collaboration opportunities in my areas of interest. If you have any #projects or ideas, I would love to hear about them. Whether it's an open-source project, a team effort, or a freelance opportunity, I'm open to exploring collaborations and contributing my skills and expertise. Feel free to reach out!
 
-- [EMAIL ME: ](mailto:timothymurkomen@outlook.com)
-- [View My Portfolio](https://timmurkomen.com)
-- [Twitter](https://x.com/Tim_Murkomen))
-- [LinkedIn Link](https://linkedin.com/in/timoo20)
+- Email Me: [Email](mailto:timothymurkomen@outlook.com)
+- Portfolio: [Portfolio](https://timmurkomen.com)
+- Twitter: [Twitter](https://x.com/Tim_Murkomen)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/timoo20)
 
 ---
 #LeverageTech - By [Tim Murkomen](https://timmurkomen.com/)
