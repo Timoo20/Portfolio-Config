@@ -1,6 +1,11 @@
-<!-- Profile Header Image or Cool Banner -->
+<!-- Profile Header with Rotating Funny Text -->
 <p align="center">
-  <img src="https://your-banner-url-here" alt="Welcome to Tim Murkomen's GitHub Profile" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="60">
+    <text x="0" y="40" font-size="40" fill="black">
+      Your Friendly Java Developer
+      <animate attributeName="fill" values="red;blue;green;orange;purple;red" dur="5s" repeatCount="indefinite"/>
+    </text>
+  </svg>
 </p>
 
 ## About Me 
@@ -52,6 +57,27 @@ Reach out to me! I promise I only bite **when** debugging.
   ![Tim Murkomen's GitHub stats](https://github-readme-stats.vercel.app/api?username=timoo20&show_icons=true&theme=dark)
   <br>
   [![GitHub followers](https://img.shields.io/github/followers/timoo20?style=social)](https://github.com/timoo20)
+</p>
+
+---
+
+## 🔄 Fun Facts:
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="60">
+    <text x="0" y="40" font-size="40" fill="orange">
+      Code like nobody's watching, debug like it's a high-stakes game! 
+      <animate attributeName="fill" values="red;blue;green;purple;yellow;red" dur="6s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
+---
+
+## 🚀 Let's Stay Connected!
+<p align="center">
+  <img src="https://image-url-arrow.png" alt="Arrow" width="50" />
+  <img src="https://your-image-url-here" alt="Funny Image" width="200" />
+  <img src="https://image-url-arrow.png" alt="Arrow" width="50" />
 </p>
 
 ---
