@@ -1,6 +1,7 @@
 <div align="center">
-  ## Technology is like magic... except it’s real!
+  **Technology is like magic... except it’s real!**
 </div>
+---
 ## About Me 
 ---
 I'm your friendly neighborhood **Java** developer, and yes, my backend code doesn't crash... (most of the time). When I'm not busy talking to my **PostgreSQL** server (yes, it talks back), you’ll find me on a mission to conquer the world of **Blockchain** and **IT Security**. Armed with **JavaScript**, I fight off bugs while always being one Google search away from greatness. Forever curious, forever learning.
