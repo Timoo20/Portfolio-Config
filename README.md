@@ -1,4 +1,4 @@
-## Hi, Welcome! ![Waving Hand](https://media.giphy.com/media/xThtamkuyrS1TBl7jC/giphy.gif)
+## Hi
 
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="60">
   <text x="0" y="40" font-size="40" fill="black">
