@@ -31,8 +31,8 @@ Reach out to me! I promise I only bite **when** debugging.
 - **Twitter**: [Tweet at me!](https://x.com/Tim_Murkomen) (I’ll tweet back...eventually)
 - **LinkedIn**: [Let's Connect!](https://linkedin.com/in/timoo20) (professional handshake)
 
-- ![Tim Murkomen's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimMurkomen&show_icons=true&theme=dark)
-[![GitHub followers](https://img.shields.io/github/followers/TimMurkomen?style=social)](https://github.com/TimMurkomen)
+- ![Tim Murkomen's GitHub stats](https://github-readme-stats.vercel.app/api?username=timoo20&show_icons=true&theme=dark)
+[![GitHub followers](https://img.shields.io/github/followers/timoo20?style=social)](https://github.com/timoo20)
 
 
 ---
