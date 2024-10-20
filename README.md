@@ -42,7 +42,6 @@ Reach out to me! I promise I only bite **when** debugging.
     <img src="https://media.giphy.com/media/xT0xeuOy9yGsQ0CCfG/giphy.gif" alt="Funny Animation" width="400" />
   Remember, technology is like magic... except it’s real!
 </p>
----
 
 ## Let's Stay Connected!
 <p align="center">
